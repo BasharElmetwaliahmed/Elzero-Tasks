@@ -1,0 +1,17 @@
+div{
+    margin-bottom: 10px;
+    background-color: #d4d4d4;
+    width: 400px;
+    padding: 40px;
+    outline: 10px solid #d4d4d4;
+    border-left: 4px solid;
+}
+.shape1{
+  border-color: #e91e63;
+}
+.shape2{
+  visibility: hidden;
+}
+.shape3{
+  border-color: #009688;
+}
